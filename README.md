@@ -1,2 +1,5 @@
 # CrackingTheCodingInterview
-The repo for storing problems from Cracking the Coding Interview book. 
+
+The repo for storing problems from Cracking the Coding Interview book.
+
+For Personal Usage
